@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1318826261 source:c:\documents and settings\administrador\mis documentos\eyeboard\eyeboard.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	<fstream>
+	<cstring>
+	<iostream>
+	<windows.h>
+
